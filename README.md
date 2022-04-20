@@ -8,8 +8,7 @@
 
 功能一共有三个：torch.nn搭建的DCGAN；用torchgan封装好的模型；评价指标。
 
-项目已经上传至： www.baidu.com
-
+项目已经上传至： https://github.com/mycfhs/mycf_Gan_net
 ## 文件及目录介绍
 
 ### GAN-Metrics
